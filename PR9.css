@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  #image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .image-item {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+ 
+  
